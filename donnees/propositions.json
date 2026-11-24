@@ -152,7 +152,7 @@
       "parti_court": "Écologistes",
       "declaration": "2025-10-22",
       "couleur": "#2f855a",
-      "note": "Vote des militants écologistes annoncé pour le 13 décembre 2026."
+      "note": "Désignation à confirmer par le vote des adhérents écologistes du 10 au 13 décembre 2026."
     },
     {
       "id": "ruffin",
@@ -233,7 +233,8 @@
       "parti": "NPA-Révolutionnaires",
       "parti_court": "NPA-R",
       "declaration": "2026-06-17",
-      "couleur": "#b83280"
+      "couleur": "#b83280",
+      "note": "Pas de programme publié : propositions tirées de son discours à la Fête de l'Humanité."
     },
     {
       "id": "philippot",
@@ -249,7 +250,8 @@
       "parti": "Sans étiquette (soutenue par République souveraine et le MRC)",
       "parti_court": "SE",
       "declaration": "2026-10-14",
-      "couleur": "#805ad5"
+      "couleur": "#805ad5",
+      "note": "Pas encore de programme écrit : propositions tirées de ses interviews."
     },
     {
       "id": "riner",
@@ -257,7 +259,8 @@
       "parti": "Sans étiquette",
       "parti_court": "SE",
       "declaration": "2026-11-09",
-      "couleur": "#718096"
+      "couleur": "#718096",
+      "note": "Programme pas encore publié : seules ses premières orientations sont connues."
     },
     {
       "id": "lalanne",
@@ -273,7 +276,8 @@
       "parti": "Parti animaliste",
       "parti_court": "Animaliste",
       "declaration": "2026-10-02",
-      "couleur": "#48bb78"
+      "couleur": "#48bb78",
+      "note": "Propositions relevées par le site ÉlyséeScope, sans source primaire à ce jour."
     }
   ],
   "propositions": [
@@ -1749,6 +1753,798 @@
         "nom": "iFRAP (comparateur)",
         "url": "https://www.ifrap.org/comparateurs/presidentielle-2027",
         "date": null
+      }
+    },
+    {
+      "id": "polony-01",
+      "candidat": "polony",
+      "theme": "pouvoir-achat",
+      "texte": "Instaurer une taxe flottante sur les carburants : les taxes baissent quand les prix à la pompe montent.",
+      "source": {
+        "nom": "Sud Radio",
+        "url": "https://www.sudradio.fr/sud-radio/natacha-polony-je-lance-un-appel-aux-orphelins-de-la-politique",
+        "date": "2026-09-15"
+      }
+    },
+    {
+      "id": "polony-02",
+      "candidat": "polony",
+      "theme": "economie",
+      "texte": "Taxer les superprofits des groupes pétroliers sur les carburants.",
+      "source": {
+        "nom": "Sud Radio",
+        "url": "https://www.sudradio.fr/sud-radio/natacha-polony-je-lance-un-appel-aux-orphelins-de-la-politique",
+        "date": "2026-09-15"
+      }
+    },
+    {
+      "id": "polony-03",
+      "candidat": "polony",
+      "theme": "economie",
+      "texte": "Donner la priorité aux entreprises françaises dans la commande publique, en assouplissant certaines règles jugées trop strictes.",
+      "source": {
+        "nom": "Sud Radio",
+        "url": "https://www.sudradio.fr/sud-radio/natacha-polony-je-lance-un-appel-aux-orphelins-de-la-politique",
+        "date": "2026-09-15"
+      }
+    },
+    {
+      "id": "polony-04",
+      "candidat": "polony",
+      "theme": "agriculture",
+      "texte": "Faire acheter aux cantines, hôpitaux et collectivités des produits d'agriculteurs français plutôt que des importations moins chères.",
+      "source": {
+        "nom": "Sud Radio",
+        "url": "https://www.sudradio.fr/sud-radio/natacha-polony-je-lance-un-appel-aux-orphelins-de-la-politique",
+        "date": "2026-09-15"
+      }
+    },
+    {
+      "id": "polony-05",
+      "candidat": "polony",
+      "theme": "ecologie",
+      "texte": "Renationaliser EDF, empêcher la privatisation des barrages hydroélectriques et défendre le nucléaire.",
+      "source": {
+        "nom": "Sud Radio",
+        "url": "https://www.sudradio.fr/sud-radio/natacha-polony-je-lance-un-appel-aux-orphelins-de-la-politique",
+        "date": "2026-09-15"
+      }
+    },
+    {
+      "id": "polony-06",
+      "candidat": "polony",
+      "theme": "defense",
+      "texte": "Garder l'industrie de défense française hors d'un marché unique européen de la défense.",
+      "source": {
+        "nom": "Sud Radio",
+        "url": "https://www.sudradio.fr/sud-radio/natacha-polony-je-lance-un-appel-aux-orphelins-de-la-politique",
+        "date": "2026-09-15"
+      }
+    },
+    {
+      "id": "philippot-01",
+      "candidat": "philippot",
+      "theme": "europe",
+      "texte": "Sortir de l'Union européenne, de l'euro et de Schengen, et créer une nouvelle monnaie nationale.",
+      "source": {
+        "nom": "Votons 2027 (d'après les-patriotes.fr)",
+        "url": "https://votons-2027.fr/candidats/philippot/programme/europe",
+        "date": null
+      }
+    },
+    {
+      "id": "philippot-02",
+      "candidat": "philippot",
+      "theme": "defense",
+      "texte": "Quitter l'OTAN et refuser la création d'une armée européenne.",
+      "source": {
+        "nom": "Votons 2027 (d'après les-patriotes.fr)",
+        "url": "https://votons-2027.fr/candidats/philippot/programme/europe",
+        "date": null
+      }
+    },
+    {
+      "id": "philippot-03",
+      "candidat": "philippot",
+      "theme": "immigration",
+      "texte": "Revenir à des flux migratoires très limités et reconduire à la frontière les étrangers en situation irrégulière.",
+      "source": {
+        "nom": "Votons 2027 (d'après les-patriotes.fr)",
+        "url": "https://votons-2027.fr/candidats/philippot/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "philippot-04",
+      "candidat": "philippot",
+      "theme": "securite",
+      "texte": "Construire des dizaines de milliers de places de prison et expulser les détenus étrangers.",
+      "source": {
+        "nom": "Votons 2027 (d'après les-patriotes.fr)",
+        "url": "https://votons-2027.fr/candidats/philippot/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "philippot-05",
+      "candidat": "philippot",
+      "theme": "institutions",
+      "texte": "Inscrire dans la Constitution un référendum d'initiative citoyenne (RIC) sur tout sujet.",
+      "source": {
+        "nom": "Votons 2027 (d'après les-patriotes.fr)",
+        "url": "https://votons-2027.fr/candidats/philippot/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "philippot-06",
+      "candidat": "philippot",
+      "theme": "ecologie",
+      "texte": "Moratoire total sur les éoliennes terrestres et en mer, et investissement massif dans le nucléaire.",
+      "source": {
+        "nom": "Votons 2027 (d'après les-patriotes.fr)",
+        "url": "https://votons-2027.fr/candidats/philippot/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "philippot-07",
+      "candidat": "philippot",
+      "theme": "education",
+      "texte": "Consacrer la moitié du temps scolaire en primaire à la maîtrise du français.",
+      "source": {
+        "nom": "Votons 2027 (d'après les-patriotes.fr)",
+        "url": "https://votons-2027.fr/candidats/philippot/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "asselineau-01",
+      "candidat": "asselineau",
+      "theme": "europe",
+      "texte": "Sortir de l'Union européenne (article 50), de l'euro et de l'OTAN.",
+      "source": {
+        "nom": "Votons 2027 (d'après upr.fr)",
+        "url": "https://votons-2027.fr/candidats/asselineau/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "asselineau-02",
+      "candidat": "asselineau",
+      "theme": "pouvoir-achat",
+      "texte": "Augmenter le Smic brut de 24 % sur le quinquennat.",
+      "source": {
+        "nom": "Votons 2027 (d'après upr.fr)",
+        "url": "https://votons-2027.fr/candidats/asselineau/programme/economie",
+        "date": null
+      }
+    },
+    {
+      "id": "asselineau-03",
+      "candidat": "asselineau",
+      "theme": "immigration",
+      "texte": "Exécuter au moins 75 % des décisions d'expulsion et quitter l'espace Schengen.",
+      "source": {
+        "nom": "Votons 2027 (d'après upr.fr)",
+        "url": "https://votons-2027.fr/candidats/asselineau/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "asselineau-04",
+      "candidat": "asselineau",
+      "theme": "securite",
+      "texte": "Augmenter de 20 % le budget de la justice et de 20 % celui de la police.",
+      "source": {
+        "nom": "Votons 2027 (d'après upr.fr)",
+        "url": "https://votons-2027.fr/candidats/asselineau/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "asselineau-05",
+      "candidat": "asselineau",
+      "theme": "sante",
+      "texte": "Rouvrir 30 000 lits d'hôpital pendant le quinquennat et augmenter de 15 % le budget de l'hôpital public dès le premier budget.",
+      "source": {
+        "nom": "Votons 2027 (d'après upr.fr)",
+        "url": "https://votons-2027.fr/candidats/asselineau/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "asselineau-06",
+      "candidat": "asselineau",
+      "theme": "institutions",
+      "texte": "Ramener le nombre de députés à 500 et de sénateurs à environ 100, et créer le RIC.",
+      "source": {
+        "nom": "Votons 2027 (d'après upr.fr)",
+        "url": "https://votons-2027.fr/candidats/asselineau/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "asselineau-07",
+      "candidat": "asselineau",
+      "theme": "logement",
+      "texte": "Construire 80 000 logements de plus par an et faciliter l'accès à la propriété.",
+      "source": {
+        "nom": "Votons 2027 (d'après upr.fr)",
+        "url": "https://votons-2027.fr/candidats/asselineau/programme/economie",
+        "date": null
+      }
+    },
+    {
+      "id": "batho-01",
+      "candidat": "batho",
+      "theme": "agriculture",
+      "texte": "Conditionner, d'ici la fin du quinquennat, les aides agricoles à l'agriculture biologique et à l'agroécologie régénérative.",
+      "source": {
+        "nom": "Votons 2027 (d'après delphinebatho.fr)",
+        "url": "https://votons-2027.fr/candidats/batho/programme/climat",
+        "date": null
+      }
+    },
+    {
+      "id": "batho-02",
+      "candidat": "batho",
+      "theme": "sante",
+      "texte": "Retirer immédiatement les pesticides cancérigènes, mutagènes, reprotoxiques et perturbateurs endocriniens.",
+      "source": {
+        "nom": "Votons 2027 (d'après delphinebatho.fr)",
+        "url": "https://votons-2027.fr/candidats/batho/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "batho-03",
+      "candidat": "batho",
+      "theme": "sante",
+      "texte": "Réguler l'installation des médecins et créer des centres de santé.",
+      "source": {
+        "nom": "Votons 2027 (d'après delphinebatho.fr)",
+        "url": "https://votons-2027.fr/candidats/batho/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "batho-04",
+      "candidat": "batho",
+      "theme": "ecologie",
+      "texte": "Investir dans la sortie des énergies fossiles et la rénovation des logements (géothermie, autoconsommation collective).",
+      "source": {
+        "nom": "Votons 2027 (d'après delphinebatho.fr)",
+        "url": "https://votons-2027.fr/candidats/batho/programme/climat",
+        "date": null
+      }
+    },
+    {
+      "id": "batho-05",
+      "candidat": "batho",
+      "theme": "social",
+      "texte": "Créer une sécurité sociale climatique pour réduire les inégalités face aux catastrophes.",
+      "source": {
+        "nom": "Votons 2027 (d'après delphinebatho.fr)",
+        "url": "https://votons-2027.fr/candidats/batho/programme/climat",
+        "date": null
+      }
+    },
+    {
+      "id": "batho-06",
+      "candidat": "batho",
+      "theme": "securite",
+      "texte": "Voter une loi de programmation pour les pompiers et créer un ministère de la sécurité civile.",
+      "source": {
+        "nom": "Votons 2027 (d'après delphinebatho.fr)",
+        "url": "https://votons-2027.fr/candidats/batho/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "tondelier-04",
+      "candidat": "tondelier",
+      "theme": "sante",
+      "texte": "Interdire les aliments ultratransformés dans les cantines et la publicité télévisée pour les produits trop sucrés ou trop salés avant 21 heures.",
+      "source": {
+        "nom": "L'Info durable (AFP)",
+        "url": "https://www.linfodurable.fr/presidentielle-tondelier-devoile-ses-mesures-pour-la-sante-environnementale-56752",
+        "date": "2026-05-30"
+      }
+    },
+    {
+      "id": "tondelier-05",
+      "candidat": "tondelier",
+      "theme": "agriculture",
+      "texte": "Sortir progressivement des pesticides de synthèse d'ici 2050, avec un fonds de transition agricole, et viser 25 % de surfaces en bio en 2032.",
+      "source": {
+        "nom": "L'Info durable (AFP)",
+        "url": "https://www.linfodurable.fr/presidentielle-tondelier-devoile-ses-mesures-pour-la-sante-environnementale-56752",
+        "date": "2026-05-30"
+      }
+    },
+    {
+      "id": "tondelier-06",
+      "candidat": "tondelier",
+      "theme": "ecologie",
+      "texte": "Limiter la vitesse sur autoroute à 110 km/h pour les véhicules thermiques.",
+      "source": {
+        "nom": "Votons 2027 (d'après lesecologistes.fr)",
+        "url": "https://votons-2027.fr/candidats/tondelier/programme/climat",
+        "date": null
+      }
+    },
+    {
+      "id": "tondelier-07",
+      "candidat": "tondelier",
+      "theme": "pouvoir-achat",
+      "texte": "Porter le salaire minimum à 2 000 euros brut par mois dès 2027.",
+      "source": {
+        "nom": "Votons 2027 (d'après lesecologistes.fr)",
+        "url": "https://votons-2027.fr/candidats/tondelier/programme/economie",
+        "date": null
+      }
+    },
+    {
+      "id": "tondelier-08",
+      "candidat": "tondelier",
+      "theme": "economie",
+      "texte": "Rétablir l'impôt sur la fortune.",
+      "source": {
+        "nom": "Votons 2027 (d'après lesecologistes.fr)",
+        "url": "https://votons-2027.fr/candidats/tondelier/programme/economie",
+        "date": null
+      }
+    },
+    {
+      "id": "tondelier-09",
+      "candidat": "tondelier",
+      "theme": "education",
+      "texte": "Réduire les classes à 19 élèves en 2032 (12 en éducation prioritaire).",
+      "source": {
+        "nom": "Votons 2027 (d'après lesecologistes.fr)",
+        "url": "https://votons-2027.fr/candidats/tondelier/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "tondelier-10",
+      "candidat": "tondelier",
+      "theme": "securite",
+      "texte": "Créer en dix ans 9 000 postes de magistrats, 10 000 de greffiers et 7 000 d'attachés de justice.",
+      "source": {
+        "nom": "Votons 2027 (d'après lesecologistes.fr)",
+        "url": "https://votons-2027.fr/candidats/tondelier/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "tondelier-11",
+      "candidat": "tondelier",
+      "theme": "logement",
+      "texte": "Généraliser et pérenniser l'encadrement des loyers.",
+      "source": {
+        "nom": "Votons 2027 (d'après lesecologistes.fr)",
+        "url": "https://votons-2027.fr/candidats/tondelier/programme/economie",
+        "date": null
+      }
+    },
+    {
+      "id": "lisnard-05",
+      "candidat": "lisnard",
+      "theme": "pouvoir-achat",
+      "texte": "Consacrer 120 milliards d'euros d'économies à hausser les salaires nets en baissant les cotisations, soit environ 400 euros par mois en moyenne.",
+      "source": {
+        "nom": "Cryptoast",
+        "url": "https://cryptoast.fr/david-lisnard-programme-200-milliards-economies-salaires-nets/",
+        "date": "2026-10-22"
+      }
+    },
+    {
+      "id": "lisnard-06",
+      "candidat": "lisnard",
+      "theme": "economie",
+      "texte": "Diviser par deux les impôts de production en supprimant la C3S et, si besoin, la CVAE.",
+      "source": {
+        "nom": "Votons 2027 (d'après unenouvelleenergie.fr)",
+        "url": "https://votons-2027.fr/candidats/lisnard/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "lisnard-07",
+      "candidat": "lisnard",
+      "theme": "travail",
+      "texte": "Créer un contrat de travail unique pour les nouvelles embauches, fusionnant CDI et CDD.",
+      "source": {
+        "nom": "Votons 2027 (d'après unenouvelleenergie.fr)",
+        "url": "https://votons-2027.fr/candidats/lisnard/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "lisnard-08",
+      "candidat": "lisnard",
+      "theme": "travail",
+      "texte": "Garantir une pension minimale à tous dès 65 ans, avec un minimum vieillesse de 1 000 euros par mois.",
+      "source": {
+        "nom": "Votons 2027 (d'après unenouvelleenergie.fr)",
+        "url": "https://votons-2027.fr/candidats/lisnard/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "lisnard-09",
+      "candidat": "lisnard",
+      "theme": "institutions",
+      "texte": "Nommer un « gouvernement commando » resserré avec une feuille de route pour les 200 premiers jours.",
+      "source": {
+        "nom": "La Gazette France (AFP)",
+        "url": "https://www.lagazettefrance.fr/article/presidentielle-s-il-est-elu-david-lisnard-promet-un-gouvernement-commando",
+        "date": "2026-11-03"
+      }
+    },
+    {
+      "id": "lisnard-10",
+      "candidat": "lisnard",
+      "theme": "securite",
+      "texte": "Abaisser la majorité pénale à 16 ans et supprimer les réductions de peine automatiques.",
+      "source": {
+        "nom": "Votons 2027 (d'après unenouvelleenergie.fr)",
+        "url": "https://votons-2027.fr/candidats/lisnard/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "lisnard-11",
+      "candidat": "lisnard",
+      "theme": "immigration",
+      "texte": "Remplacer l'aide médicale d'État (AME) par une aide d'urgence.",
+      "source": {
+        "nom": "Votons 2027 (d'après unenouvelleenergie.fr)",
+        "url": "https://votons-2027.fr/candidats/lisnard/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "lisnard-12",
+      "candidat": "lisnard",
+      "theme": "education",
+      "texte": "Instaurer progressivement un chèque éducation, du même montant que la famille choisisse le public ou le privé.",
+      "source": {
+        "nom": "Votons 2027 (d'après unenouvelleenergie.fr)",
+        "url": "https://votons-2027.fr/candidats/lisnard/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "lisnard-13",
+      "candidat": "lisnard",
+      "theme": "ecologie",
+      "texte": "Prolonger les réacteurs nucléaires jusqu'à 60 ans et construire des EPR de nouvelle génération.",
+      "source": {
+        "nom": "Votons 2027 (d'après unenouvelleenergie.fr)",
+        "url": "https://votons-2027.fr/candidats/lisnard/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "arthaud-03",
+      "candidat": "arthaud",
+      "theme": "travail",
+      "texte": "Interdire les licenciements et répartir le travail entre tous sans baisse de salaire.",
+      "source": {
+        "nom": "Votons 2027 (d'après lutte-ouvriere.org)",
+        "url": "https://votons-2027.fr/candidats/arthaud/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "arthaud-04",
+      "candidat": "arthaud",
+      "theme": "pouvoir-achat",
+      "texte": "Porter le Smic à 2 200 euros net et indexer salaires et pensions sur l'inflation.",
+      "source": {
+        "nom": "Votons 2027 (d'après lutte-ouvriere.org)",
+        "url": "https://votons-2027.fr/candidats/arthaud/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "arthaud-05",
+      "candidat": "arthaud",
+      "theme": "sante",
+      "texte": "Rouvrir les maternités, cliniques et centres de santé de proximité qui ont fermé.",
+      "source": {
+        "nom": "Votons 2027 (d'après lutte-ouvriere.org)",
+        "url": "https://votons-2027.fr/candidats/arthaud/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "arthaud-06",
+      "candidat": "arthaud",
+      "theme": "ecologie",
+      "texte": "Rendre les transports en commun gratuits.",
+      "source": {
+        "nom": "Votons 2027 (d'après lutte-ouvriere.org)",
+        "url": "https://votons-2027.fr/candidats/arthaud/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "arthaud-07",
+      "candidat": "arthaud",
+      "theme": "immigration",
+      "texte": "Régulariser tous les sans-papiers et garantir la liberté de circulation et d'installation.",
+      "source": {
+        "nom": "Votons 2027 (d'après lutte-ouvriere.org)",
+        "url": "https://votons-2027.fr/candidats/arthaud/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "arthaud-08",
+      "candidat": "arthaud",
+      "theme": "economie",
+      "texte": "Exproprier sans indemnité les actionnaires des grands groupes et collectiviser les banques et les grands moyens de production.",
+      "source": {
+        "nom": "Votons 2027 (d'après lutte-ouvriere.org)",
+        "url": "https://votons-2027.fr/candidats/arthaud/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "riner-01",
+      "candidat": "riner",
+      "theme": "travail",
+      "texte": "Réformer les retraites en gardant la répartition, avec une possible part de capitalisation.",
+      "source": {
+        "nom": "LCP",
+        "url": "https://lcp.fr/actualites/retraites-salaires-securite-que-propose-teddy-riner-pour-la-presidentielle-444935",
+        "date": "2026-11-10"
+      }
+    },
+    {
+      "id": "riner-02",
+      "candidat": "riner",
+      "theme": "pouvoir-achat",
+      "texte": "Augmenter le salaire net en réduisant l'écart entre salaire brut et salaire net.",
+      "source": {
+        "nom": "LCP",
+        "url": "https://lcp.fr/actualites/retraites-salaires-securite-que-propose-teddy-riner-pour-la-presidentielle-444935",
+        "date": "2026-11-10"
+      }
+    },
+    {
+      "id": "riner-03",
+      "candidat": "riner",
+      "theme": "travail",
+      "texte": "Permettre à ceux qui le veulent de travailler plus que 35 heures pour gagner plus, sans supprimer les 35 heures.",
+      "source": {
+        "nom": "LCP",
+        "url": "https://lcp.fr/actualites/retraites-salaires-securite-que-propose-teddy-riner-pour-la-presidentielle-444935",
+        "date": "2026-11-10"
+      }
+    },
+    {
+      "id": "kazib-01",
+      "candidat": "kazib",
+      "theme": "pouvoir-achat",
+      "texte": "Porter le Smic à 2 000 euros net, augmenter les salaires de 500 euros, revaloriser toutes les allocations et indexer les salaires sur l'inflation.",
+      "source": {
+        "nom": "Votons 2027 (d'après anasse2027.fr)",
+        "url": "https://votons-2027.fr/candidats/kazib/programme/economie",
+        "date": null
+      }
+    },
+    {
+      "id": "kazib-02",
+      "candidat": "kazib",
+      "theme": "travail",
+      "texte": "Abaisser l'âge de la retraite à 60 ans, et à 55 ans pour les métiers pénibles, sans condition d'annuités.",
+      "source": {
+        "nom": "Votons 2027 (d'après anasse2027.fr)",
+        "url": "https://votons-2027.fr/candidats/kazib/programme/economie",
+        "date": null
+      }
+    },
+    {
+      "id": "kazib-03",
+      "candidat": "kazib",
+      "theme": "logement",
+      "texte": "Réquisitionner les logements vides, plafonner et geler les loyers.",
+      "source": {
+        "nom": "Votons 2027 (d'après anasse2027.fr)",
+        "url": "https://votons-2027.fr/candidats/kazib/programme/economie",
+        "date": null
+      }
+    },
+    {
+      "id": "kazib-04",
+      "candidat": "kazib",
+      "theme": "sante",
+      "texte": "Nationaliser l'industrie pharmaceutique et créer une Sécurité sociale universelle, payée par les employeurs, couvrant tous les soins.",
+      "source": {
+        "nom": "Votons 2027 (d'après anasse2027.fr)",
+        "url": "https://votons-2027.fr/candidats/kazib/programme/sante",
+        "date": null
+      }
+    },
+    {
+      "id": "kazib-05",
+      "candidat": "kazib",
+      "theme": "securite",
+      "texte": "Dissoudre les corps spéciaux de police.",
+      "source": {
+        "nom": "Votons 2027 (d'après anasse2027.fr)",
+        "url": "https://votons-2027.fr/candidats/kazib/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "kazib-06",
+      "candidat": "kazib",
+      "theme": "institutions",
+      "texte": "En finir avec la Ve République, le Sénat et la fonction présidentielle, au profit d'une assemblée unique.",
+      "source": {
+        "nom": "Votons 2027 (d'après anasse2027.fr)",
+        "url": "https://votons-2027.fr/candidats/kazib/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "kazib-07",
+      "candidat": "kazib",
+      "theme": "defense",
+      "texte": "Ne consacrer aucun euro à la guerre et démanteler l'industrie d'armement française.",
+      "source": {
+        "nom": "Votons 2027 (d'après anasse2027.fr)",
+        "url": "https://votons-2027.fr/candidats/kazib/programme",
+        "date": null
+      }
+    },
+    {
+      "id": "labib-01",
+      "candidat": "labib",
+      "theme": "pouvoir-achat",
+      "texte": "Augmenter tous les salaires et pensions de 400 euros par mois, et qu'aucun revenu ne soit inférieur à 2 000 euros net.",
+      "source": {
+        "nom": "Votons 2027 (d'après npa-revolutionnaires.org)",
+        "url": "https://votons-2027.fr/candidats/labib/programme",
+        "date": "2026-09-12"
+      }
+    },
+    {
+      "id": "labib-02",
+      "candidat": "labib",
+      "theme": "travail",
+      "texte": "Réduire le temps de travail sans perte de salaire et interdire les licenciements.",
+      "source": {
+        "nom": "Votons 2027 (d'après npa-revolutionnaires.org)",
+        "url": "https://votons-2027.fr/candidats/labib/programme",
+        "date": "2026-09-12"
+      }
+    },
+    {
+      "id": "labib-03",
+      "candidat": "labib",
+      "theme": "economie",
+      "texte": "Contrôler les marges de Total et de la grande distribution, et socialiser les grandes entreprises sans indemnité ni rachat.",
+      "source": {
+        "nom": "Votons 2027 (d'après npa-revolutionnaires.org)",
+        "url": "https://votons-2027.fr/candidats/labib/programme",
+        "date": "2026-09-12"
+      }
+    },
+    {
+      "id": "labib-04",
+      "candidat": "labib",
+      "theme": "immigration",
+      "texte": "Régulariser tous les sans-papiers et garantir la liberté de circulation et d'installation.",
+      "source": {
+        "nom": "Votons 2027 (d'après npa-revolutionnaires.org)",
+        "url": "https://votons-2027.fr/candidats/labib/programme",
+        "date": "2026-09-12"
+      }
+    },
+    {
+      "id": "labib-05",
+      "candidat": "labib",
+      "theme": "institutions",
+      "texte": "Arrêter le fichage des populations et les technologies de surveillance (drones, analyse automatique des comportements).",
+      "source": {
+        "nom": "Votons 2027 (d'après npa-revolutionnaires.org)",
+        "url": "https://votons-2027.fr/candidats/labib/programme/institutions",
+        "date": "2026-09-12"
+      }
+    },
+    {
+      "id": "lalanne-01",
+      "candidat": "lalanne",
+      "theme": "europe",
+      "texte": "Sortir la France de l'Union européenne (« Frexit ») et revenir au franc.",
+      "source": {
+        "nom": "Brussels Signal",
+        "url": "https://brusselssignal.eu/2026/08/french-singer-turned-activist-francis-lalanne-announces-2027-presidential-run/",
+        "date": "2026-08-20"
+      }
+    },
+    {
+      "id": "lalanne-02",
+      "candidat": "lalanne",
+      "theme": "defense",
+      "texte": "Retirer la France de l'OTAN.",
+      "source": {
+        "nom": "Brussels Signal",
+        "url": "https://brusselssignal.eu/2026/08/french-singer-turned-activist-francis-lalanne-announces-2027-presidential-run/",
+        "date": "2026-08-20"
+      }
+    },
+    {
+      "id": "lalanne-03",
+      "candidat": "lalanne",
+      "theme": "institutions",
+      "texte": "Instaurer le référendum d'initiative citoyenne (RIC).",
+      "source": {
+        "nom": "Brussels Signal",
+        "url": "https://brusselssignal.eu/2026/08/french-singer-turned-activist-francis-lalanne-announces-2027-presidential-run/",
+        "date": "2026-08-20"
+      }
+    },
+    {
+      "id": "lalanne-04",
+      "candidat": "lalanne",
+      "theme": "institutions",
+      "texte": "Abroger les lois Pleven (1972), Gayssot (1990) et Avia (2020).",
+      "source": {
+        "nom": "Brussels Signal",
+        "url": "https://brusselssignal.eu/2026/08/french-singer-turned-activist-francis-lalanne-announces-2027-presidential-run/",
+        "date": "2026-08-20"
+      }
+    },
+    {
+      "id": "lalanne-05",
+      "candidat": "lalanne",
+      "theme": "agriculture",
+      "texte": "Sortir de la politique agricole commune (PAC).",
+      "source": {
+        "nom": "Brussels Signal",
+        "url": "https://brusselssignal.eu/2026/08/french-singer-turned-activist-francis-lalanne-announces-2027-presidential-run/",
+        "date": "2026-08-20"
+      }
+    },
+    {
+      "id": "markovic-01",
+      "candidat": "markovic",
+      "theme": "agriculture",
+      "texte": "Interdire les élevages intensifs et subventionner les agriculteurs qui passent au bio ou à la permaculture.",
+      "source": {
+        "nom": "ÉlyséeScope 2027",
+        "url": "https://www.elyseescope.com/questions/mira-markovic-point-campagne-20261112",
+        "date": "2026-11-11"
+      }
+    },
+    {
+      "id": "markovic-02",
+      "candidat": "markovic",
+      "theme": "ecologie",
+      "texte": "Atteindre la neutralité carbone d'ici 2040, en augmentant les aides aux renouvelables et en taxant les industries polluantes.",
+      "source": {
+        "nom": "ÉlyséeScope 2027",
+        "url": "https://www.elyseescope.com/questions/mira-markovic-point-campagne-20261119",
+        "date": "2026-11-18"
+      }
+    },
+    {
+      "id": "markovic-03",
+      "candidat": "markovic",
+      "theme": "securite",
+      "texte": "Durcir les lois contre la maltraitance animale.",
+      "source": {
+        "nom": "ÉlyséeScope 2027",
+        "url": "https://www.elyseescope.com/questions/mira-markovic-point-campagne-20261119",
+        "date": "2026-11-18"
       }
     }
   ]
