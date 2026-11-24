@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#1e3a5f">
+<meta name="description" content="Les propositions des candidats déclarés à l'élection présidentielle française de 2027, classées par thème, avec leurs sources.">
+<title>Propositions 2027</title>
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='11' height='32' fill='%231e3a5f'/%3E%3Crect x='11' width='10' height='32' fill='%23fff'/%3E%3Crect x='21' width='11' height='32' fill='%23c0392b'/%3E%3C/svg%3E">
+</head>
+<body>
+<a class="evitement" href="#contenu">Aller au contenu</a>
+
+<header class="entete">
+  <div class="entete__haut">
+    <div class="marque">
+      <span class="marque__drapeau" aria-hidden="true"><i></i><i></i><i></i></span>
+      <div>
+        <h1 class="marque__titre">Propositions 2027</h1>
+        <p class="marque__sous-titre" id="sous-titre">Élection présidentielle française</p>
+      </div>
+    </div>
+    <div class="compte-rebours" id="compte-rebours" aria-live="polite"></div>
+  </div>
+
+  <nav class="onglets" aria-label="Vues">
+    <button type="button" class="onglet" data-vue="liste" aria-pressed="true">
+      <span aria-hidden="true">📋</span> Propositions
+    </button>
+    <button type="button" class="onglet" data-vue="comparer" aria-pressed="false">
+      <span aria-hidden="true">⚖️</span> Comparer
+    </button>
+    <button type="button" class="onglet" data-vue="candidats" aria-pressed="false">
+      <span aria-hidden="true">👥</span> Candidats
+    </button>
+  </nav>
+</header>
+
+<main id="contenu">
+  <div class="panne" id="panne" role="alert" hidden></div>
+
+  <!-- ============ Vue : liste des propositions ============ -->
+  <section class="vue" id="vue-liste" aria-labelledby="titre-liste">
+    <h2 class="visuellement-cache" id="titre-liste">Toutes les propositions</h2>
+
+    <div class="filtres">
+      <label class="recherche">
+        <span class="visuellement-cache">Rechercher une proposition</span>
+        <svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="m20 20-4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        <input type="search" id="recherche" placeholder="Rechercher : retraites, SMIC, nucléaire…" autocomplete="off" enterkeyhint="search">
+        <button type="button" class="recherche__effacer" id="effacer-recherche" aria-label="Effacer la recherche" hidden>✕</button>
+      </label>
+
+      <div class="filtre">
+        <div class="filtre__titre">
+          <span id="lib-candidats">Candidats</span>
+          <button type="button" class="lien-discret" id="tous-candidats">Tous</button>
+        </div>
+        <div class="puces" id="puces-candidats" role="group" aria-labelledby="lib-candidats"></div>
+      </div>
+
+      <div class="filtre">
+        <div class="filtre__titre">
+          <span id="lib-themes">Thèmes</span>
+          <button type="button" class="lien-discret" id="tous-themes">Tous</button>
+        </div>
+        <div class="puces" id="puces-themes" role="group" aria-labelledby="lib-themes"></div>
+      </div>
+
+      <div class="barre-resultat">
+        <p id="resultat" aria-live="polite"></p>
+        <label class="bascule">
+          <input type="checkbox" id="seulement-favoris">
+          <span>★ Mes favoris</span>
+        </label>
+      </div>
+    </div>
+
+    <div id="liste"></div>
+  </section>
+
+  <!-- ============ Vue : comparaison ============ -->
+  <section class="vue" id="vue-comparer" aria-labelledby="titre-comparer" hidden>
+    <h2 class="titre-vue" id="titre-comparer">Comparer les candidats</h2>
+    <p class="aide">Choisis jusqu'à 4 candidats et un thème : leurs propositions s'affichent côte à côte.</p>
+
+    <div class="filtre">
+      <div class="filtre__titre"><span id="lib-cmp-candidats">Candidats à comparer</span> <span class="compteur" id="cmp-compteur"></span></div>
+      <div class="puces" id="cmp-candidats" role="group" aria-labelledby="lib-cmp-candidats"></div>
+    </div>
+
+    <div class="filtre">
+      <label class="filtre__titre" for="cmp-theme">Thème</label>
+      <select id="cmp-theme" class="selecteur"></select>
+    </div>
+
+    <div id="comparaison"></div>
+  </section>
+
+  <!-- ============ Vue : candidats ============ -->
+  <section class="vue" id="vue-candidats" aria-labelledby="titre-candidats" hidden>
+    <h2 class="titre-vue" id="titre-candidats">Les candidats déclarés</h2>
+    <p class="aide" id="aide-candidats"></p>
+    <div class="grille-candidats" id="grille-candidats"></div>
+  </section>
+</main>
+
+<footer class="pied">
+  <p id="pied-maj"></p>
+  <p>Chaque proposition renvoie vers l'article ou le document où elle a été annoncée. Les programmes évoluent : vérifie la source avant de citer une mesure.</p>
+</footer>
+
+<!-- Données : chargées en script pour que l'appli marche aussi en double-cliquant le fichier (file://) -->
+<script src="donnees/propositions.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
